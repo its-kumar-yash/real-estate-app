@@ -11,10 +11,10 @@ export default function Index() {
       }}
     > 
       <Text className="font-bold font-rubik text-3xl">Welcome to ReState</Text>
-      <Link href="/signin">Sign In</Link>
+      {/* <Link href="/signin">Sign In</Link>
       <Link href="/explore">Explore</Link>
       <Link href="/profile">Profile</Link>
-      <Link href="/properties/[id]">Property</Link>
+      <Link href="/properties/[id]">Property</Link> */}
     </View>
   );
 }
